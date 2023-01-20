@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Albison-Academy/static/css/main.ac114c9c.css",
+    "main.js": "/Albison-Academy/static/js/main.f7f37783.js",
+    "static/js/787.75ce0cdf.chunk.js": "/Albison-Academy/static/js/787.75ce0cdf.chunk.js",
+    "static/media/transition.svg": "/Albison-Academy/static/media/transition.103b611231b7a349d7766ebe11a29ac5.svg",
+    "static/media/tax.svg": "/Albison-Academy/static/media/tax.0b6a2476c12eca59e279cf6f762e991d.svg",
+    "static/media/rounded.svg": "/Albison-Academy/static/media/rounded.2064ec997168b03792b97860a1c6d513.svg",
+    "static/media/one-step-img.svg": "/Albison-Academy/static/media/one-step-img.aad001f1757ab4ff1f717636f8730668.svg",
+    "static/media/find-job-img.svg": "/Albison-Academy/static/media/find-job-img.c85b56a10d2aca224339e0ad3a004950.svg",
+    "static/media/logo.svg": "/Albison-Academy/static/media/logo.ba3e71e806b808e0a0bc4b5de938d24c.svg",
+    "static/media/postgresql.svg": "/Albison-Academy/static/media/postgresql.e36e97df7e5e18d8b59eef13a45aff61.svg",
+    "static/media/strong-portfolio-img.svg": "/Albison-Academy/static/media/strong-portfolio-img.ca4c4f7b352c3a179f79a35fa0566ae1.svg",
+    "static/media/showcase-img.svg": "/Albison-Academy/static/media/showcase-img.bb63ce7e0b3feba8ebc7c7f00dd7ffc6.svg",
+    "static/media/react.svg": "/Albison-Academy/static/media/react.317c8cdecc5308dba63b0c99be08d96e.svg",
+    "static/media/itechart.svg": "/Albison-Academy/static/media/itechart.f63ad902d9131568c1da4e7c89b4181b.svg",
+    "static/media/nextjs.svg": "/Albison-Academy/static/media/nextjs.2e296d8e8f5b961cea3781c0d5fcfaf6.svg",
+    "static/media/Albison.svg": "/Albison-Academy/static/media/Albison.0f3f8f15f316851c491282dde9df4a3a.svg",
+    "static/media/nodejs.svg": "/Albison-Academy/static/media/nodejs.e04c952e87656caf6bc03785407bcc23.svg",
+    "static/media/go.svg": "/Albison-Academy/static/media/go.533f5e66f171a3c0ffb39a7e6b170915.svg",
+    "static/media/epam.svg": "/Albison-Academy/static/media/epam.a061a4921776c3b22cb76686af869ae9.svg",
+    "static/media/python.svg": "/Albison-Academy/static/media/python.f1d3a45e5fd92369a382bd573f31908a.svg",
+    "static/media/java.svg": "/Albison-Academy/static/media/java.7e45568d3af04615898f5713a20fa816.svg",
+    "static/media/mongodb.svg": "/Albison-Academy/static/media/mongodb.7694b8ca3f9ec4a9c56eaf2d3cf3090e.svg",
+    "static/media/javascript.svg": "/Albison-Academy/static/media/javascript.de4c2594613e34b15666206bbede7327.svg",
+    "static/media/css3.svg": "/Albison-Academy/static/media/css3.9cecabbf6ce67609c48bc4f280a11002.svg",
+    "static/media/git.svg": "/Albison-Academy/static/media/git.4336ebd4c97bfade2caadc792dcad1d0.svg",
+    "index.html": "/Albison-Academy/index.html",
+    "static/media/html.svg": "/Albison-Academy/static/media/html.6e7b1b463015c056aeb9a624c8dc2876.svg",
+    "main.ac114c9c.css.map": "/Albison-Academy/static/css/main.ac114c9c.css.map",
+    "main.f7f37783.js.map": "/Albison-Academy/static/js/main.f7f37783.js.map",
+    "787.75ce0cdf.chunk.js.map": "/Albison-Academy/static/js/787.75ce0cdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ac114c9c.css",
+    "static/js/main.f7f37783.js"
+  ]
+}
