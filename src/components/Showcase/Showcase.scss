@@ -1,0 +1,42 @@
+
+.showcase {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .showcase__info, .showcase__img  {
+        width: 40%;
+        img {
+            width: 100%;
+        }
+    }
+    .showcase__info {
+        width: 45%;
+        color: rgb(24, 33, 109);
+        font-family: sans-serif;
+
+        h1 {
+            font-size: 54px;
+            line-height: 1.18;
+            font-weight: 500;
+            margin-bottom: 0.5em;
+            margin-top: 0;
+            font-weight: 700;
+        }
+        p {
+            font-size: 22px;
+            line-height: 1.41;
+            margin-bottom: 20px;
+            opacity: 0.9;
+        }
+
+
+        .showcase__btns {
+            display: flex;
+            column-gap: 20px;
+        }
+    }
+
+
+    
+}

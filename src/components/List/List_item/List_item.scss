@@ -1,0 +1,34 @@
+
+.box__column {
+    h1 {
+        text-align: center;
+        margin-bottom: 20px;
+        font-size: 50px;
+        color: rgb(24, 33, 109);
+    }
+
+    li {
+        grid-gap: 1rem;
+        align-items: center;
+        background-color: #fff;
+        border-radius: 1rem;
+        display: grid;
+        font-size: 1.3rem;
+        gap: 1rem;
+        grid-template-columns: 50px 1fr;
+        margin: 0.5rem;
+        padding: 0.2rem 1rem;
+        transition: .5s;
+    
+        &:hover {
+            transform: scale(1.1);
+        }
+    
+        img {
+            width: 35px;
+            height: 35px;
+        }
+    }
+
+}
+

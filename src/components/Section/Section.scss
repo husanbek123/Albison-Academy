@@ -1,0 +1,24 @@
+
+
+.section {
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .section__img {
+        width: 45%;
+        img {
+            width: 100%;
+        }
+    }
+
+    .section__info {
+        width: 45%;
+        color: rgb(24, 33, 109);
+        font-family: sans-serif;
+    }
+}
+
+
