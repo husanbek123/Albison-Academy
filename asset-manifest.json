@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Albison-Academy/static/css/main.ac114c9c.css",
+    "main.css": "/Albison-Academy/static/css/main.9537be22.css",
     "main.js": "/Albison-Academy/static/js/main.f7f37783.js",
     "static/js/787.75ce0cdf.chunk.js": "/Albison-Academy/static/js/787.75ce0cdf.chunk.js",
     "static/media/transition.svg": "/Albison-Academy/static/media/transition.103b611231b7a349d7766ebe11a29ac5.svg",
@@ -27,12 +27,12 @@
     "static/media/git.svg": "/Albison-Academy/static/media/git.4336ebd4c97bfade2caadc792dcad1d0.svg",
     "index.html": "/Albison-Academy/index.html",
     "static/media/html.svg": "/Albison-Academy/static/media/html.6e7b1b463015c056aeb9a624c8dc2876.svg",
-    "main.ac114c9c.css.map": "/Albison-Academy/static/css/main.ac114c9c.css.map",
+    "main.9537be22.css.map": "/Albison-Academy/static/css/main.9537be22.css.map",
     "main.f7f37783.js.map": "/Albison-Academy/static/js/main.f7f37783.js.map",
     "787.75ce0cdf.chunk.js.map": "/Albison-Academy/static/js/787.75ce0cdf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac114c9c.css",
+    "static/css/main.9537be22.css",
     "static/js/main.f7f37783.js"
   ]
 }
